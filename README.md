@@ -35,11 +35,11 @@ The project analyzes streaming behavior, subscriptions, content performance, use
 
 - [x] Database Designed
 - [x] Data Imported
-- [ ] Data Cleaning
-- [ ] SQL Analysis
-- [ ] Views
-- [ ] Indexes
-- [ ] Functions
-- [ ] Triggers
-- [ ] Power BI Dashboard
+- [x] Data Cleaning
+- [x] SQL Analysis
+- [x] Views
+- [x] Indexes
+- [x] Functions
+- [x] Triggers
+- [x] Power BI Dashboard
 - [ ] FastAPI APIs
